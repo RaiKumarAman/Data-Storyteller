@@ -1,7 +1,4 @@
 
-markdown
-Copy
-Edit
 # 📊 Data Insights AI Assistant
 
 An interactive and intelligent Streamlit-based data analysis tool powered by **Google's Gemini AI** via **LangChain**. Upload your datasets, get instant statistics, visualizations, and ask natural language questions about your data — all in one app.
