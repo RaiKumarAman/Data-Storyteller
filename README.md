@@ -42,20 +42,16 @@ An interactive and intelligent Streamlit-based data analysis tool powered by **G
 ├── .env                # Store your Google API key here
 ├── requirements.txt    # All required Python dependencies
 └── README.md           # This file
+```
 🔐 Environment Setup
 Create a .env file in the root directory with your Google API key:
 
-env
-Copy
-Edit
 GOOGLE_API_KEY=your_google_genai_key
 🔑 You must have access to Google Gemini API via Google AI Studio or [Vertex AI].
 
 🧪 Installation
 🔧 Step-by-step
-bash
-Copy
-Edit
+
 # 1. Clone the repository
 git clone https://github.com/your-username/data-insights-ai-assistant.git
 cd data-insights-ai-assistant
@@ -67,9 +63,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # 3. Install dependencies
 pip install -r requirements.txt
 ▶️ Run the App
-bash
-Copy
-Edit
 streamlit run app.py
 🖼️ Screenshots
 🧾 Overview Tab
@@ -122,4 +115,4 @@ Add session saving and report generation
 
 Improve multilingual chat support
 
-Built with ❤️ by [Your Name] – Contributions Welcome!
+Built with ❤️ by Aman Kumar Rai – Contributions Welcome!
