@@ -64,8 +64,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ▶️ Run the App
 streamlit run app.py
-🖼️ Screenshots
-🧾 Overview Tab
+## 🖼️ Screenshots
+
+## 🧾 Overview Tab
 
 🤖 Chat Assistant
 
@@ -80,7 +81,7 @@ streamlit run app.py
 
 "Which categories have the highest frequency?"
 
-📦 Requirements
+## 📦 Requirements
 txt
 Copy
 Edit
@@ -94,10 +95,8 @@ langchain
 langchain-google-genai
 python-dotenv
 openpyxl
-📃 License
-This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 LangChain
 
 Google Gemini
@@ -106,7 +105,7 @@ Streamlit
 
 Plotly
 
-💡 Future Improvements
+## 💡 Future Improvements
 Add support for uploading multiple files
 
 Enable export of visualizations
