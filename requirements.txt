@@ -21,7 +21,6 @@ google-generativeai
 python-dotenv
 
 
-langchain_core.pydantic_v1
 
 
 
