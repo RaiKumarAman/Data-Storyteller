@@ -1,20 +1,17 @@
-# Core dependencies
-streamlit
-pandas
-numpy
+streamlit>=1.50.0
+pandas>=2.3.3
+numpy>=2.3.4
 
-# Visualization libraries
-plotly
-seaborn
-matplotlib
+plotly>=6.3.1
+seaborn>=0.13.2
+matplotlib>=3.10.7
 
-# File handling
-openpyxl  # For reading .xlsx files
+openpyxl>=3.1.5
 
-# LangChain and Google Generative AI
-langchain
-langchain-google-genai
-google-generativeai
+# Pinning LangChain and Google GenAI dependencies
+langchain==0.1.32
+langchain-core==0.1.32
+langchain-google-genai==0.0.6
+google-generativeai>=0.3.2
 
-# Environment variable management
-python-dotenv
+python-dotenv>=1.1.1
